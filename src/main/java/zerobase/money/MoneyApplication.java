@@ -71,7 +71,6 @@ public class MoneyApplication {
 			System.err.println("스크래핑 중 오류 발생: " + e.getMessage());
 		}
 
-
 	}
 }
 
